@@ -16,10 +16,10 @@ These projects mark the starting point of my journey toward becoming a Software 
 
 ## 📁 Projects Included
 
-### ⭐ [Personal Portfolio Page](https://abhishek-commits-hub.github.io/html-mini-projects/portfolio/)
+### ⭐ <a href="https://abhishek-commits-hub.github.io/html-mini-projects/portfolio/" target="_blank" rel="noopener noreferrer">Personal Portfolio Page</a>
 A semantic portfolio webpage showcasing introduction, skills, projects, and contact information using pure HTML.
 
-### 🛍️ [Product Catalog Website](https://abhishek-commits-hub.github.io/html-mini-projects/product-catalog/)
+### 🛍️ <a href="https://abhishek-commits-hub.github.io/html-mini-projects/product-catalog/" target="_blank" rel="noopener noreferrer">Product Catalog Website</a>
 A multi-section product catalog displaying electronics, clothing, and home items using semantic HTML, images, lists, and navigation links.
 
 ---
