@@ -66,9 +66,9 @@ Next steps in my learning journey:
 **Abhishek Kumar Dutta**
 Aspiring Software Engineer
 
-📧 Email: [abhishekdutta.contact@gmail.com](mailto:abhishekdutta.contact@gmail.com)
-🔗 GitHub: [https://github.com/Abhishek-Commits-Hub](https://github.com/Abhishek-Commits-Hub)
-🔗 LinkedIn: [https://www.linkedin.com/in/abhishek-kumar-dutta/](https://www.linkedin.com/in/abhishek-kumar-dutta-982b15389/)
+📧 Email: [abhishekdutta.contact@gmail.com](mailto:abhishekdutta.contact@gmail.com)<br>
+🔗 GitHub: [https://github.com/Abhishek-Commits-Hub](https://github.com/Abhishek-Commits-Hub)<br>
+🔗 LinkedIn: [https://www.linkedin.com/in/abhishek-kumar-dutta/](https://www.linkedin.com/in/abhishek-kumar-dutta-982b15389/)<br>
 
 ---
 
