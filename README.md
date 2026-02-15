@@ -1,2 +1,78 @@
-# html-mini-projects
-Mini projects built using pure HTML while learning web development and DSA. Focused on semantic tags, structured layouts, and real-world webpage design.
+# 🚀 HTML Mini Projects
+
+A collection of beginner-friendly mini projects built using **pure HTML** while learning the fundamentals of Web Development and Data Structures & Algorithms.
+
+This repository focuses on understanding:
+
+* Semantic HTML tags
+* Page structure
+* Forms and inputs
+* Tables and layouts
+* Clean and readable code
+
+These projects mark the starting point of my journey toward becoming a Software Engineer.
+
+---
+
+## 📁 Projects Included
+
+### ⭐ Personal Portfolio Page
+
+A semantic portfolio webpage showcasing introduction, skills, projects, and contact information using only HTML.
+
+### 📝 Student Registration Form
+
+A structured form with various input types including text fields, radio buttons, checkboxes, dropdowns, and textarea.
+
+### 📄 Resume Webpage
+
+A resume converted into a webpage format using semantic HTML elements.
+
+### 📅 College Timetable Page
+
+A timetable layout created using HTML tables with rowspan and colspan.
+
+---
+
+## 🎯 Purpose of This Repository
+
+* Practice HTML fundamentals
+* Build consistency in coding
+* Create a strong base before moving to CSS and JavaScript
+* Track my progress publicly
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5 (No CSS, No JavaScript)
+
+---
+
+## 📌 Future Plans
+
+Next steps in my learning journey:
+
+* CSS for styling
+* Responsive design
+* JavaScript for interactivity
+* Advanced Web Development projects
+* Data Structures & Algorithms practice
+
+---
+
+## 👨‍💻 Author
+
+**Abhishek Kumar Dutta**
+Aspiring Software Engineer
+
+📧 Email: [abhishekdutta.contact@gmail.com](mailto:abhishekdutta.contact@gmail.com)
+🔗 GitHub: [https://github.com/Abhishek-Commits-Hub](https://github.com/Abhishek-Commits-Hub)
+🔗 LinkedIn: [https://www.linkedin.com/in/abhishek-kumar-dutta/](https://www.linkedin.com/in/abhishek-kumar-dutta-982b15389/)
+
+---
+
+## ⭐ Support
+
+If you like this repository, consider giving it a star ⭐ to support my learning journey.
+
