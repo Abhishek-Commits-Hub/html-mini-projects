@@ -53,7 +53,7 @@ Next steps in my learning journey:
 
 ## 👨‍💻 Author
 
-**Abhishek Kumar Dutta**
+**Abhishek Kumar Dutta** | 
 Aspiring Software Engineer
 
 📧 Email: [abhishekdutta.contact@gmail.com](mailto:abhishekdutta.contact@gmail.com)<br>
