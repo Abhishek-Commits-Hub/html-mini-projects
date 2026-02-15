@@ -17,20 +17,10 @@ These projects mark the starting point of my journey toward becoming a Software 
 ## 📁 Projects Included
 
 ### ⭐ Personal Portfolio Page
+A semantic portfolio webpage showcasing introduction, skills, projects, and contact information using pure HTML.
 
-A semantic portfolio webpage showcasing introduction, skills, projects, and contact information using only HTML.
-
-### 📝 Student Registration Form
-
-A structured form with various input types including text fields, radio buttons, checkboxes, dropdowns, and textarea.
-
-### 📄 Resume Webpage
-
-A resume converted into a webpage format using semantic HTML elements.
-
-### 📅 College Timetable Page
-
-A timetable layout created using HTML tables with rowspan and colspan.
+### 🛍️ Product Catalog Website
+A multi-section product catalog displaying electronics, clothing, and home items using semantic HTML, images, lists, and navigation links.
 
 ---
 
